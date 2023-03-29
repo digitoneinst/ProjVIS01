@@ -1,2 +1,0 @@
-# ProjVIS01
-myaiproject
